@@ -1,0 +1,6 @@
+﻿supplier_id,supplier_name,lead_time_days,fixed_order_cost,min_order_qty,reliability
+S01,Công ty Lương thực Miền Nam,2,50,50,0.95
+S02,Đại lý nước giải khát Sài Gòn,1,30,20,0.98
+S03,Nhà phân phối Acecook,3,40,30,0.92
+S04,Công ty Dầu thực vật,2,35,20,0.96
+S05,Vinamilk Distribution,1,45,10,0.99
